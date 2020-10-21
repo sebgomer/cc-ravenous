@@ -1,6 +1,6 @@
 ## Codecademy React Project
  
-Simple project using CC instructions to build a React Clone consuming the Yelp API. https://www.yelp.com/developers/documentation/v3
+Simple project using CC instructions to build a React Yelp clone consuming the Yelp API. https://www.yelp.com/developers/documentation/v3
 
 Main focus: fetch() consuming, enabling refined search by query params and having a decent UI. :) 
 
